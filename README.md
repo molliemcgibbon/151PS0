@@ -10,8 +10,6 @@ Due: 2021-09-06<br>
 
 _Please insert an x in the square brackets above to mark the assignment as submitted!_
 
-Due the night of September 6 at midnight
-
 ## Instructions:
 The pdf has all the basic instructions, but here are some additional guidelines.
 - [ ] Code for Problem 1 should be written in the file called `Karel_Newspaper.py` included in the repository. Please do not forget to fill out the meta-data information in the comments at the top of the template!
