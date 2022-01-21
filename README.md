@@ -1,10 +1,4 @@
 # Problem Set 0
-<details>
-<summary><em>metadata</em></summary>
-Category: problem-set<br>
-Points: 10<br>
-Due: 2021-09-06<br>
-</details>
 
 - [ ] Submitted?
 
